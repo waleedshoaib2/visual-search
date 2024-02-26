@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Similar Images</h1>
+    <p>Query Image:</p>
+    <img src="{{ url_for('static', filename='uploads/' + query_image) }}">
+    <p>Results:</p>
+    {% for result in results %}
+    
+   
+    <img src="{{ url_for('static', filename='images/' + result) }}">
+
+    {% endfor %}
+</body>
+</html>

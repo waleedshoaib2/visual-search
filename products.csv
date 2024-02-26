@@ -1,0 +1,101 @@
+Product ID,Category,Name,Description,Material,Color,Price (PKR),Image URL
+101,Bed,Queen Size Bed,Simple and elegant queen size bed with a slatted headboard design, crafted from solid oak wood for durability.,Oak,White,7000,./bed/101.jpg
+102,Bed,Platform Bed,Modern platform bed featuring a low-profile silhouette and upholstered headboard in soft linen fabric, offering a sleek look for your bedroom.,Linen,Gray,8500,./bed/102.jpg
+103,Bed,Storage Bed,Functional storage bed with built-in drawers beneath the mattress, providing ample space for bedding and linens.,Pine,Espresso,9500,./bed/103.jpg
+104,Bed,Canopy Bed,Romantic canopy bed adorned with sheer curtains, creating a dreamy ambiance in your bedroom. Crafted from sturdy wrought iron.,Wrought Iron,Black,12000,./bed/104.jpg
+105,Bed,Bunk Bed,Space-saving bunk bed with a twin-over-full design, perfect for siblings or accommodating guests. Made of solid pine wood for stability.,Pine,Natural,10000,./bed/105.jpg
+106,Bed,Loft Bed,Multifunctional loft bed featuring a built-in desk and shelves underneath, ideal for maximizing space in small bedrooms. Constructed from metal.,Metal,Silver,8000,./bed/106.jpg
+107,Bed,Sleigh Bed,Classic sleigh bed design with curved headboard and footboard, adding a touch of traditional charm to your bedroom decor.,Mahogany,Cherry,11000,./bed/107.jpg
+108,Bed,Adjustable Bed,Ergonomic adjustable bed base with wireless remote control, allowing you to customize your sleeping position for maximum comfort.,Steel,Black,15000,./bed/108.jpg
+109,Bed,Murphy Bed,Innovative Murphy bed that folds up into the wall to save space when not in use, perfect for studio apartments or guest rooms.,Wood,White,13000,./bed/109.jpg
+110,Bed,Four Poster Bed,Majestic four poster bed featuring carved wooden details and a canopy frame, evoking a sense of grandeur and opulence in your bedroom.,Oak,Mahogany,16000,./bed/110.jpg
+111,Bed,Futon Bed,Versatile futon bed that easily converts from a sofa to a bed, providing convenient seating and sleeping options in small living spaces.,Fabric,Navy,6000,./bed/111.jpg
+112,Bed,Trundle Bed,Space-efficient trundle bed with a pull-out bottom bed, perfect for accommodating overnight guests or sleepovers. Crafted from durable metal.,Metal,White,9000,./bed/112.jpg
+113,Bed,Daybed,Stylish daybed with a tufted backrest and roll-out trundle, offering both seating and sleeping space for lounging or overnight stays.,Velvet,Beige,7500,./bed/113.jpg
+114,Bed,Canopy Platform Bed,Contemporary canopy bed with a platform base, combining modern design with the elegance of a canopy frame. Upholstered in luxurious velvet.,Velvet,Charcoal,13500,./bed/114.jpg
+115,Bed,Floating Bed,Sleek floating bed design with hidden support beams, giving the illusion of a weightless sleeping platform. Crafted from high-quality acrylic.,Acrylic,Clear,20000,./bed/115.jpg
+116,Bed,Panel Bed,Timeless panel bed featuring clean lines and raised panels on the headboard and footboard, adding a touch of sophistication to any bedroom.,Wood,Espresso,10000,./bed/116.jpg
+117,Bed,Storage Platform Bed,Contemporary platform bed with integrated storage drawers, providing a stylish solution for organizing bedroom essentials.,MDF,White,8500,./bed/117.jpg
+118,Bed,Upholstered Bed,Luxurious upholstered bed frame with diamond-tufted detailing and nailhead trim, creating a chic focal point in your bedroom decor.,Fabric,Cream,12500,./bed/118.jpg
+119,Bed,Metal Platform Bed,Industrial-style platform bed crafted from sturdy metal with a matte black finish, offering a minimalist yet edgy aesthetic to your bedroom.,Metal,Black,7000,./bed/119.jpg
+120,Bed,Rustic Bed,Charming rustic bed frame made of reclaimed wood, featuring natural imperfections and a distressed finish for a cozy, lived-in look.,Reclaimed Wood,Natural,9500,./bed/120.jpg
+201,Sofa,Sectional Sofa,Spacious sectional sofa with chaise lounge, perfect for entertaining guests or lounging with the family. Upholstered in plush velvet fabric.,Velvet,Navy,15000,./sofa/201.jpg
+202,Sofa,Reclining Sofa,Comfortable reclining sofa with padded armrests and headrests, allowing you to relax and unwind after a long day. Upholstered in durable leather.,Leather,Brown,18000,./sofa/202.jpg
+203,Sofa,Convertible Sofa,Versatile convertible sofa that easily transforms into a sleeper bed, providing extra sleeping space for overnight guests. Upholstered in soft microfiber.,Microfiber,Gray,12000,./sofa/203.jpg
+204,Sofa,Loveseat,Cozy loveseat with a compact design, perfect for small living spaces or adding seating to a bedroom or office. Upholstered in stylish linen fabric.,Linen,Beige,8000,./sofa/204.jpg
+205,Sofa,Chesterfield Sofa,Classic Chesterfield sofa featuring deep button tufting and rolled arms, adding timeless elegance to your living room decor. Upholstered in luxurious velvet.,Velvet,Emerald,20000,./sofa/205.jpg
+206,Sofa,Mid-Century Sofa,Iconic mid-century modern sofa with clean lines and tapered legs, offering a retro-chic aesthetic to your living space. Upholstered in vibrant fabric.,Fabric,Orange,16000,./sofa/206.jpg
+207,Sofa,Sleeper Sofa,Stylish sleeper sofa with a pull-out bed mechanism, providing a convenient solution for hosting overnight guests without compromising on comfort.,Leather,Black,22000,./sofa/207.jpg
+208,Sofa,Tufted Sofa,Elegant tufted sofa featuring deep diamond tufting and rolled arms, creating a luxurious focal point in your living room. Upholstered in soft velvet fabric.,Velvet,Silver,19000,./sofa/208.jpg
+209,Sofa,Modular Sofa,Modular sofa with customizable configurations, allowing you to create the perfect seating arrangement for your space. Upholstered in durable fabric.,Fabric,Charcoal,17000,./sofa/209.jpg
+210,Sofa,Curved Sofa,Contemporary curved sofa with a unique silhouette, making a bold statement in any modern living room. Upholstered in high-quality leather.,Leather,White,23000,./sofa/210.jpg
+211,Sofa,Futon Sofa,Compact futon sofa that easily converts into a sleeper bed, ideal for small apartments or guest rooms. Upholstered in easy-to-clean faux leather.,Faux Leather,Black,10000,./sofa/211.jpg
+212,Sofa,Power Reclining Sofa,Luxurious power reclining sofa with adjustable headrests and USB charging ports, combining comfort and convenience in one stylish package.,Leather,Gray,25000,./sofa/212.jpg
+213,Sofa,Settee,Elegant settee with a curved back and tapered legs, adding a touch of sophistication to your entryway or dining room. Upholstered in plush velvet.,Velvet,Burgundy,14000,./sofa/213.jpg
+214,Sofa,Chaise Lounge,Stylish chaise lounge with a streamlined silhouette and plush cushioning, providing the perfect spot for relaxation and unwinding. Upholstered in velvet.,Velvet,Teal,13000,./sofa/214.jpg
+215,Sofa,Mid-Century Sleeper Sofa,Mid-century modern sleeper sofa featuring a sleek design and easy-to-operate mechanism for converting into a bed. Upholstered in retro-inspired fabric.,Fabric,Mustard,18000,./sofa/215.jpg
+216,Sofa,Oversized Sofa,Generously proportioned oversized sofa with deep seating and overstuffed cushions, ensuring maximum comfort and relaxation. Upholstered in plush fabric.,Fabric,Gray,20000,./sofa/216.jpg
+217,Sofa,Contemporary Sofa,Contemporary sofa with clean lines and metal legs, offering a modern aesthetic to your living space. Upholstered in durable faux leather.,Faux Leather,White,16000,./sofa/217.jpg
+218,Sofa,Leather Sleeper Sofa,Sleek leather sleeper sofa with a streamlined silhouette and memory foam mattress, providing both style and comfort for overnight guests.,Leather,Espresso,22000,./sofa/218.jpg
+219,Sofa,Loveseat Sleeper,Compact loveseat sleeper sofa with a pull-out mattress, perfect for small spaces or accommodating overnight guests. Upholstered in soft fabric.,Fabric,Blue,15000,./sofa/219.jpg
+220,Sofa,Velvet Sectional Sofa,Luxurious velvet sectional sofa with deep seats and a reversible chaise, offering both comfort and versatility in your living room arrangement.,Velvet,Mauve,25000,./sofa/220.jpg
+301,Lamp,Table Lamp,Contemporary table lamp with a minimalist design and fabric drum shade, providing soft ambient lighting for your bedside table or desk.,Metal,White,1500,./lamp/301.jpg
+302,Lamp,Floor Lamp,Sleek floor lamp with an adjustable arm and metal shade, perfect for providing task lighting in your living room or home office.,Metal,Black,2000,./lamp/302.jpg
+303,Lamp,Desk Lamp,Classic desk lamp with a banker's style green glass shade and antique brass finish, adding vintage charm to your workspace or study area.,Brass,Green,1200,./lamp/303.jpg
+304,Lamp,Pendant Lamp,Industrial-style pendant lamp with a wire cage shade, adding a rustic touch to your kitchen island or dining area.,Metal,Rust,1800,./lamp/304.jpg
+305,Lamp,Tripod Lamp,Modern tripod floor lamp with a fabric drum shade, combining form and function to illuminate your living space with style.,Wood,Gray,2500,./lamp/305.jpg
+306,Lamp,Swing Arm Lamp,Contemporary swing arm wall lamp with an adjustable arm and metal shade, ideal for bedside reading or task lighting.,Metal,Silver,1400,./lamp/306.jpg
+307,Lamp,Tiffany Lamp,Elegant Tiffany-style table lamp with stained glass shade and ornate base, casting a warm and inviting glow in any room.,Glass,Multicolor,3000,./lamp/307.jpg
+308,Lamp,Globe Lamp,Globe-shaped table lamp with a frosted glass shade and brass-finished base, creating a soft and diffused light effect in your living space.,Glass,Brass,1700,./lamp/308.jpg
+309,Lamp,Crystal Lamp,Glamorous crystal table lamp with a faceted base and white fabric shade, adding a touch of luxury to your bedroom or living room decor.,Crystal,Silver,3500,./lamp/309.jpg
+310,Lamp,Task Lamp,Sleek task lamp with an adjustable neck and metal shade, perfect for providing focused lighting on your desk or work surface.,Metal,Black,1100,./lamp/310.jpg
+311,Lamp,Art Deco Lamp,Art Deco-inspired table lamp with a geometric base and frosted glass shade, bringing vintage flair to your bedside or living room.,Metal,Gold,2800,./lamp/311.jpg
+312,Lamp,Himalayan Salt Lamp,Natural Himalayan salt lamp with a wooden base, emitting a warm amber glow and providing air purifying benefits to your home or office.,Salt,Pink,2000,./lamp/312.jpg
+313,Lamp,Ceramic Lamp,Contemporary ceramic table lamp with a textured base and linen drum shade, adding subtle elegance to your bedside or living room decor.,Ceramic,White,2200,./lamp/313.jpg
+314,Lamp,Articulating Lamp,Vintage-style articulating wall lamp with a metal shade and adjustable arm, perfect for adding industrial charm to your reading nook or study.,Metal,Black,1900,./lamp/314.jpg
+315,Lamp,Lantern,Rustic lantern table lamp with a metal frame and glass panels, creating a cozy ambiance on your bedside table or outdoor patio.,Metal,Bronze,1600,./lamp/315.jpg
+316,Lamp,Crystal Chandelier,Exquisite crystal chandelier with multiple tiers of sparkling crystals, making a stunning centerpiece in your dining room or foyer.,Crystal,Chrome,5000,./lamp/316.jpg
+317,Lamp,Rope Lamp,Nautical-inspired rope table lamp with a cylindrical shade, adding coastal charm to your living room or beach house decor.,Rope,Beige,2300,./lamp/317.jpg
+318,Lamp,Industrial Lamp,Industrial-style desk lamp with a metal cage shade and exposed bulb, bringing a vintage factory vibe to your workspace or study area.,Metal,Silver,1200,./lamp/318.jpg
+319,Lamp,Ceramic Table Lamp,Handcrafted ceramic table lamp with a textured glaze finish and linen drum shade, adding artisanal charm to your bedside or living room decor.,Ceramic,Blue,2500,./lamp/319.jpg
+320,Lamp,Art Nouveau Lamp,Art Nouveau-inspired table lamp with a floral motif base and stained glass shade, evoking the elegance of the early 20th century.,Metal,Bronze,3000,./lamp/320.jpg
+401,Table,Coffee Table,Minimalist coffee table with a rectangular glass top and chrome-finished legs, adding a sleek and modern touch to your living room decor.,Glass,Silver,3000,./table/401.jpg
+402,Table,Dining Table,Rectangular dining table with a solid wood construction and natural finish, providing a rustic yet elegant centerpiece for family gatherings.,Wood,Natural,5000,./table/402.jpg
+403,Table,Side Table,Round side table with a marble top and gold-finished metal base, adding a touch of luxury and sophistication to your living room or bedroom.,Marble,Gold,2500,./table/403.jpg
+404,Table,Console Table,Slim console table with a mirrored surface and geometric metal frame, making a glamorous statement in your entryway or hallway decor.,Mirror,Silver,3500,./table/404.jpg
+405,Table,End Table,Square end table with a reclaimed wood top and industrial-style metal legs, blending rustic charm with urban sophistication in your living space.,Wood,Brown,1800,./table/405.jpg
+406,Table,Bar Table,Tall bar table with a wooden top and black metal base, providing a stylish spot for cocktails and conversation in your kitchen or home bar area.,Wood,Black,2200,./table/406.jpg
+407,Table,Folding Table,Portable folding table with a lightweight design and adjustable height, perfect for picnics, camping trips, or extra seating at parties.,Plastic,White,1200,./table/407.jpg
+408,Table,Bistro Table,Small bistro table with a mosaic tile top and wrought iron base, adding a touch of Mediterranean charm to your outdoor patio or garden.,Tile,Blue,2800,./table/408.jpg
+409,Table,Nesting Tables,Set of nesting tables with graduated sizes and mirrored tops, offering versatile functionality and space-saving convenience in your living room.,Mirror,Gold,3200,./table/409.jpg
+410,Table,Drop Leaf Table,Classic drop-leaf dining table with a wooden construction and hinged sides, allowing for easy expansion to accommodate extra guests.,Wood,Oak,4000,./table/410.jpg
+411,Table,Accent Table,Oval accent table with a sculptural metal base and tempered glass top, making a contemporary statement in your living room or entryway decor.,Metal,Black,2000,./table/411.jpg
+412,Table,Outdoor Table,Round outdoor table with a weather-resistant wicker top and aluminum frame, providing durable and stylish dining options for your patio or deck.,Wicker,Brown,3500,./table/412.jpg
+413,Table,Pedestal Table,Pedestal-style accent table with a distressed finish and turned base, adding vintage charm and character to your living room or bedroom decor.,Wood,White,2700,./table/413.jpg
+414,Table,Folding Picnic Table,Portable folding picnic table with built-in benches, perfect for outdoor gatherings, camping trips, or backyard barbecues with family and friends.,Wood,Natural,1800,./table/414.jpg
+415,Table,Pub Table,Round pub table with a sleek black top and chrome-finished metal base, creating a chic and modern setting for casual drinks or meals with friends.,Metal,Black,1500,./table/415.jpg
+416,Table,Farmhouse Table,Rustic farmhouse dining table with a distressed wood top and turned legs, providing a cozy and inviting gathering place for family meals.,Wood,White,4500,./table/416.jpg
+417,Table,Vanity Table,Elegant vanity table with a mirrored top and cabriole legs, offering a glamorous spot for getting ready in the morning or evening.,Mirror,Silver,3800,./table/417.jpg
+418,Table,Counter Height Table,Rectangular counter height dining table with a built-in storage shelf and upholstered stools, perfect for casual meals or entertaining in your kitchen.,Wood,Espresso,4200,./table/418.jpg
+419,Table,Card Table,Square card table with a vinyl top and folding legs, providing a convenient surface for card games, puzzles, or extra dining space when needed.,Vinyl,Green,1000,./table/419.jpg
+420,Table,Drum Table,Round drum table with a hammered metal finish and intricate lattice design, adding exotic flair to your living room or outdoor patio decor.,Metal,Bronze,3000,./table/420.jpg
+501,Chair,Dining Chair,Classic dining chair with a solid wood frame and upholstered seat, offering timeless elegance and comfort for family meals or dinner parties.,Wood,White,1500,./chair/501.jpg
+502,Chair,Accent Chair,Stylish accent chair with a curved back and tapered legs, upholstered in vibrant fabric for adding a pop of color and personality to any room.,Fabric,Blue,2000,./chair/502.jpg
+503,Chair,Rocking Chair,Traditional rocking chair with a slatted back and curved runners, providing a soothing motion for relaxing on your porch or in your nursery.,Wood,Natural,2500,./chair/503.jpg
+504,Chair,Recliner Chair,Plush recliner chair with padded arms and a manual reclining mechanism, offering luxurious comfort and support for lounging in your living room.,Leather,Brown,3500,./chair/504.jpg
+505,Chair,Armchair,Classic armchair with rolled arms and turned legs, upholstered in soft linen fabric for a cozy and inviting seating option in your living space.,Linen,Beige,1800,./chair/505.jpg
+506,Chair,Folding Chair,Lightweight folding chair with a durable steel frame and padded seat, perfect for outdoor events, camping trips, or additional seating at parties.,Steel,Black,1200,./chair/506.jpg
+507,Chair,Office Chair,Ergonomic office chair with adjustable height and lumbar support, providing optimal comfort and functionality for long hours of work or study.,Mesh,Black,3000,./chair/507.jpg
+508,Chair,Lounge Chair,Contemporary lounge chair with a sculptural silhouette and leather upholstery, creating a stylish and comfortable seating option in your living room.,Leather,Gray,4000,./chair/508.jpg
+509,Chair,Bar Stool,Modern bar stool with a sleek metal base and faux leather seat, offering a chic and comfortable perch for enjoying drinks at your kitchen counter.,Metal,White,2200,./chair/509.jpg
+510,Chair,High Chair,Sturdy high chair with a safety harness and removable tray, providing a secure and convenient seating option for feeding your baby or toddler.,Plastic,Red,1500,./chair/510.jpg
+511,Chair,Patio Chair,Stackable patio chair with a weather-resistant wicker seat and aluminum frame, offering durable and stylish outdoor seating for your deck or balcony.,Wicker,Brown,1800,./chair/511.jpg
+512,Chair,Swivel Chair,Contemporary swivel chair with a bucket seat and metal base, offering versatile seating and mobility for your home office or study area.,Fabric,Gray,2500,./chair/512.jpg
+513,Chair,Bean Bag Chair,Oversized bean bag chair with a plush fabric cover and foam filling, providing a cozy and casual seating option for lounging in your living room.,Fabric,Navy,1000,./chair/513.jpg
+514,Chair,Vanity Chair,Elegant vanity chair with a curved back and upholstered seat, offering a chic and comfortable spot for grooming or applying makeup in your bedroom or bath.,Velvet,Blush,2800,./chair/514.jpg
+515,Chair,Gaming Chair,Ergonomic gaming chair with adjustable armrests and lumbar support, providing comfort and support for extended gaming sessions or work at your desk.,PU Leather,Black,3500,./chair/515.jpg
+516,Chair,Butterfly Chair,Iconic butterfly chair with a folding metal frame and canvas seat, offering a stylish and portable seating option for indoor or outdoor use.,Metal,Brown,2000,./chair/516.jpg
+517,Chair,Club Chair,Plush club chair with a tufted back and rolled arms, upholstered in soft fabric for a luxurious and inviting seating option in your living room or den.,Fabric,Charcoal,2800,./chair/517.jpg
+518,Chair,Rattan Chair,Boho-chic rattan chair with a woven seat and curved back, adding natural texture and warmth to your indoor or outdoor living space.,Rattan,Natural,2400,./chair/518.jpg
+519,Chair,Director's Chair,Classic director's chair with a foldable wooden frame and canvas seat, providing portable and versatile seating for camping, picnics, or outdoor events.,Wood,Black,1800,./chair/519.jpg
+520,Chair,Adirondack Chair,Adirondack-style chair with a sloped seat and wide armrests, made of weather-resistant wood for comfortable and durable outdoor seating.,Wood,Green,3000,./chair/520.jpg
